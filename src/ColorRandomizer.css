@@ -1,0 +1,17 @@
+.color-container {
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    transition: background-color 0.5s;
+    margin-bottom: 20px;
+    padding: 20px;
+  }
+  
+  .color-history {
+    margin-top: 20px;
+    font-weight: bold;
+    color: #333;
+  }
+  
